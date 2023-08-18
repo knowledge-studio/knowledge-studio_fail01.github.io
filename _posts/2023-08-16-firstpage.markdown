@@ -1,8 +1,9 @@
 ---
-title: "My First Page"
-date: 2023-08-16 15:50:00
-categories: [S1,S2]
-tags: [math,testing]
+title: TITLE
+date: 2023-08-16 12:00:00 +0800
+categories: [S1, S2]
+tags: [math,testing]     # TAG names should always be lowercase
+math: true
 ---
 
 # Hello
